@@ -7,4 +7,4 @@ Form I-90 is used by lawful permanent residents  to replace or renew their green
 I-90 Form 
 Lawful Permanent Residence
 Permanent Residence 
-Conditional Residence - Lawful permanent residence with specific conditions .
+Conditional Residence - Lawful permanent residence with specific conditions.
